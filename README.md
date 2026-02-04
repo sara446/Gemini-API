@@ -1,6 +1,4 @@
 📁 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/gemini-api.git
-cd gemini-api
 
 🐍 2. Crear el entorno virtual
 
